@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Lucas Or Luke",
+        "last": "Davis"
+      },
+      "location": {
+        "street": {
+          "number": 5043,
+          "name": "George Street"
+        },
+        "city": "Exeter",
+        "state": "Cornwall",
+        "country": "United Kingdom",
+        "postcode": "CD79 6ST",
+        "coordinates": {
+          "latitude": "57.8137",
+          "longitude": "-146.0875"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "lucasorluke.davis@example.com",
+      "login": {
+        "uuid": "a3b8352a-69b7-481f-bd1a-629aa56c11f6",
+        "username": "bigostrich488",
+        "password": "spread",
+        "salt": "xKSBFe8R",
+        "md5": "66d5083d4e555394e50e1df30afee471",
+        "sha1": "5ccb3d33fe25391d3610ff1307c7a32f57bc62e6",
+        "sha256": "da8c7ae1162c3754f8bf0e01c763867aa026d7356e303b38ea8340716d92b515"
+      },
+      "dob": {
+        "date": "1953-04-04T18:21:21.343Z",
+        "age": 67
+      },
+      "registered": {
+        "date": "2012-12-05T18:46:54.998Z",
+        "age": 8
+      },
+      "phone": "01874 138374",
+      "cell": "0719-362-440",
+      "id": {
+        "name": "NINO",
+        "value": "NJ 22 47 66 Z"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "a7dab8cab872401e",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
